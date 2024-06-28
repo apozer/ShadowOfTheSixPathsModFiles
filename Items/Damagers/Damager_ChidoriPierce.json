@@ -164,7 +164,7 @@
   "addForceNormalize": false,
   "penetrationAllowed": true,
   "penetrationDeepDepthMultiplier": 1.0,
-  "penetrationDamage": 5.0,
+  "penetrationDamage": 100.0,
   "penetrationEffect": true,
   "penetrationInitialVelocityMultiplier": 1.0,
   "penetrationSkewerDetection": true,

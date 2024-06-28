@@ -1,0 +1,17 @@
+{
+  "$type": "ThunderRoad.ContainerData, ThunderRoad",
+  "id": "ChakraDefault",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 1,
+  "displayName": "Chakra Player",
+  "description": null,
+  "contents": [],
+  "containerContents": [
+    {
+      "$type": "ThunderRoad.SpellContent, ThunderRoad",
+      "referenceID": "ChakraSpell"
+    }
+  ],
+  "groupPath": "Player"
+}
