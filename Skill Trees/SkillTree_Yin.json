@@ -1,0 +1,35 @@
+{
+  "$type": "ThunderRoad.SkillTreeData, ThunderRoad",
+  "id": "Yin",
+  "sensitiveContent": "None",
+  "sensitiveFilterBehaviour": "Discard",
+  "version": 0,
+  "localizationGroupID": "Skills",
+  "displayName": "Yin",
+  "description": "Master the spirit of Chakra.",
+  "maxTier": 4,
+  "showInInfuser": true,
+  "color": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "emissionColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 0.5
+  },
+  "orbPitch": 1.0,
+  "costMultiplier": 1.0,
+  "crystalItemId": "YinCrystalT1",
+  "orbIconAddress": "Bas.Ui.SkillTree.Icons[Body]",
+  "infuserTopParticleAddress": "Bas.Particle.Infuser.Body",
+  "infuserBeamAudioAddress": "Bas.AudioClip.Infuser.Beam.Body",
+  "musicAddress": "Bas.AudioClip.SkillTree.Music.Body",
+  "videoAddress": "Bas.Video.Infuser.Body",
+  "iconEnabledAddress": "Bas.Ui.SkillTree.Icons[Body_ButtonColor]",
+  "iconDisabledAddress": "Bas.Ui.SkillTree.Icons[Body_Button]",
+  "groupPath": null
+}
