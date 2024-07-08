@@ -1,12 +1,12 @@
 {
   "$type": "ThunderRoad.ItemData, ThunderRoad",
-  "id": "NarutoLightningCrystalT3",
+  "id": "YangCrystalT3",
   "sensitiveContent": "None",
   "sensitiveFilterBehaviour": "Discard",
   "version": 4,
-  "localizationId": "ChakraCrystalT3",
-  "displayName": "Great Lightning Crystal Core",
-  "description": "A large crystal core infused with Chakra.",
+  "localizationId": "YangCrystalT3",
+  "displayName": "Great Yang Crystal Core",
+  "description": "A large crystal core infused with Yang nature.",
   "author": "braxton3300",
   "valueType": "Gold",
   "value": 0.0,
@@ -158,31 +158,31 @@
       "sensitiveFilterBehaviour": "Discard",
       "version": 0,
       "overridePrefabForceValues": false,
-      "treeName": "NarutoLightning",
+      "treeName": "Yang",
       "overrideCrystalColors": true,
       "baseColor": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 3.0,
+        "r": 6.0,
+        "g": 6.0,
+        "b": 6.0,
         "a": 1.0
       },
       "internalColor": {
-        "r": 0.0,
-        "g": 0.9,
-        "b": 2.0,
-        "a": 1.0
+        "r": 8.0,
+        "g": 8.0,
+        "b": 8.0,
+        "a": 0.5
       },
       "animatedColor": {
-        "r": 0.0,
-        "g": 0.0,
-        "b": 0.2,
+        "r": 7.0,
+        "g": 7.0,
+        "b": 7.0,
         "a": 1.0
       },
       "emissionColor": {
-        "r": 0.0,
-        "g": 0.5,
-        "b": 3.0,
-        "a": 1.0
+        "r": 5.0,
+        "g": 5.0,
+        "b": 5.0,
+        "a": 0.5
       },
       "higherTierCrystalId": "",
       "shardId": "Crystal_Small_01_Shard",
