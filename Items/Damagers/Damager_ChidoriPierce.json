@@ -4,7 +4,7 @@
   "sensitiveContent": "None",
   "sensitiveFilterBehaviour": "Discard",
   "version": 1,
-  "damageModifierId": "Pierce",
+  "damageModifierId": "ChidoriPierceModifier",
   "tiers": [
     {
       "$type": "ThunderRoad.DamagerData+Tier, ThunderRoad",
